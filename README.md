@@ -1,2 +1,3 @@
-# belajar-cicd-pemula
-Repositori untuk belajar membuat CI/CD lewat Github Actions (dari video youtube https://youtube.com/user/girikuncoro))
+Tugas Kelompok Adsis
+- Ardita Hardi
+- Miftakhul Fitria N
